@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "custom_capacitors:item/capacitor_base",
+        "layer1": "custom_capacitors:item/capacitor_overlay"
+    }
+}
