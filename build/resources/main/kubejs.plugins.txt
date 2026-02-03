@@ -1,1 +1,0 @@
-com.zulu.customcapacitors.compat.kubejs.KubeJSCompat
