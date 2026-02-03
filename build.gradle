@@ -49,8 +49,8 @@ configurations {
 }
 
 dependencies {
-    compileOnly "com.enderio:enderio-base:8.1.0-beta:api"
-    localRuntime "com.enderio:enderio-base:8.1.0-beta"
+    compileOnly "com.enderio:enderio:8.1.0-beta:api"
+    localRuntime "com.enderio:enderio:8.1.0-beta"
     compileOnly "dev.latvian.mods:kubejs-neoforge:2101.7.2-build.348"
     compileOnly "org.appliedenergistics:guideme:21.10.2-beta"
 }

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " A ",
+        "BCB",
+        " A "
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:dragon_head"
+        },
+        "B": {
+            "type": "neoforge:components",
+            "items": "custom_capacitors:tier5_capacitor",
+            "components": {
+                "enderio:capacitor_data": {
+                    "base": 5.0,
+                    "specializations": {}
+                }
+            }
+        },
+        "C": {
+            "item": "minecraft:nether_star"
+        }
+    },
+    "result": {
+        "id": "custom_capacitors:tier6_capacitor"
+    }
+}
