@@ -1,7 +1,7 @@
 package com.zulu.customcapacitors.item;
 
 import com.zulu.customcapacitors.component.ModDataComponents;
-import com.enderio.base.api.capacitor.CapacitorData;
+import com.enderio.enderio.api.capacitor.CapacitorData;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.ItemStack;

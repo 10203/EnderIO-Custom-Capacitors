@@ -1,6 +1,6 @@
 package com.zulu.customcapacitors.component;
 
-import com.enderio.base.api.capacitor.CapacitorData;
+import com.enderio.enderio.api.capacitor.CapacitorData;
 import net.minecraft.core.component.DataComponentType;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.neoforge.registries.DeferredHolder;

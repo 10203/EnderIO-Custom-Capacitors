@@ -4,7 +4,7 @@ import com.electronwill.nightconfig.core.file.CommentedFileConfig;
 import com.electronwill.nightconfig.core.Config;
 import com.zulu.customcapacitors.CustomCapacitors;
 import com.zulu.customcapacitors.item.EnergyCapacitorItem;
-import com.enderio.base.api.capacitor.CapacitorData;
+import com.enderio.enderio.api.capacitor.CapacitorData;
 import net.minecraft.world.item.Item;
 import net.neoforged.neoforge.registries.DeferredHolder;
 import net.neoforged.neoforge.registries.DeferredRegister;

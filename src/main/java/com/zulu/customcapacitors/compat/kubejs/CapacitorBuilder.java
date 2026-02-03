@@ -2,7 +2,7 @@ package com.zulu.customcapacitors.compat.kubejs;
 
 import com.zulu.customcapacitors.CustomCapacitors;
 import com.zulu.customcapacitors.component.ModDataComponents;
-import com.enderio.base.api.capacitor.CapacitorData;
+import com.enderio.enderio.api.capacitor.CapacitorData;
 import dev.latvian.mods.kubejs.item.ItemBuilder;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.Item;
